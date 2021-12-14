@@ -1,0 +1,26 @@
+#image{
+    height: 60px;
+    width: 80px;
+    border-radius: 40px;
+}
+body{
+    background-size: cover;
+    text-align: center;
+    background-image: url("https://media1.thehungryjpeg.com/thumbs2/ori_3854666_o4iitkdsmm4sbqed89ydakytiivgd0emae6gjlp6_chatting-characters-social-networking-people-chatting-virtual-relat.jpg");
+}
+.login_div{
+    text-align: center;
+}
+.header { 
+    color: rgb(2, 41, 2);
+    font-family: 'Yeon Sung';
+    font-size: 45px;letter-spacing: 10px;
+    margin-top: 80px; }
+.header img {
+    width: 80px;
+    margin-left: -15px; 
+}
+.login_div { 
+    background: rgba(142, 240, 215, 0.8);
+    float: none;border-radius: 15px; 
+}
